@@ -1,0 +1,136 @@
+{
+  "FaceRecords": [
+    {
+      "Face": {
+        "FaceId": "020a2bed-b180-48ee-b9d6-cf21389c5915",
+        "BoundingBox": {
+          "Width": 0.32777777314186096,
+          "Height": 0.5965555310249329,
+          "Left": 0.6066666841506958,
+          "Top": 0.14560000598430634
+        },
+        "ImageId": "8e1350d1-61bf-5fd6-8e33-f63e11f883b1",
+        "ExternalImageId": "TEMPORARIA",
+        "Confidence": 99.9879150390625
+      },
+      "FaceDetail": {
+        "BoundingBox": {
+          "Width": 0.32777777314186096,
+          "Height": 0.5965555310249329,
+          "Left": 0.6066666841506958,
+          "Top": 0.14560000598430634
+        },
+        "Landmarks": [
+          {
+            "Type": "eyeLeft",
+            "X": 0.7098896503448486,
+            "Y": 0.3789285719394684
+          },
+          {
+            "Type": "eyeRight",
+            "X": 0.827633261680603,
+            "Y": 0.3775852918624878
+          },
+          {
+            "Type": "nose",
+            "X": 0.7630919814109802,
+            "Y": 0.4782984256744385
+          },
+          {
+            "Type": "mouthLeft",
+            "X": 0.7275114059448242,
+            "Y": 0.598270833492279
+          },
+          {
+            "Type": "mouthRight",
+            "X": 0.8181599378585815,
+            "Y": 0.5966789126396179
+          }
+        ],
+        "Pose": {
+          "Roll": -0.264616996049881,
+          "Yaw": -7.312638282775879,
+          "Pitch": 8.302989959716797
+        },
+        "Quality": {
+          "Brightness": 29.68168830871582,
+          "Sharpness": 99.80813598632812
+        },
+        "Confidence": 99.9879150390625
+      }
+    },
+    {
+      "Face": {
+        "FaceId": "dca9c9b7-c98c-434f-8dfa-a3a56c63cc58",
+        "BoundingBox": {
+          "Width": 0.25,
+          "Height": 0.45500001311302185,
+          "Left": 0.09111110866069794,
+          "Top": 0.13144443929195404
+        },
+        "ImageId": "8e1350d1-61bf-5fd6-8e33-f63e11f883b1",
+        "ExternalImageId": "TEMPORARIA",
+        "Confidence": 99.99993896484375
+      },
+      "FaceDetail": {
+        "BoundingBox": {
+          "Width": 0.25,
+          "Height": 0.45500001311302185,
+          "Left": 0.09111110866069794,
+          "Top": 0.13144443929195404
+        },
+        "Landmarks": [
+          {
+            "Type": "eyeLeft",
+            "X": 0.17900454998016357,
+            "Y": 0.3011959195137024
+          },
+          {
+            "Type": "eyeRight",
+            "X": 0.2661482095718384,
+            "Y": 0.33874088525772095
+          },
+          {
+            "Type": "nose",
+            "X": 0.21399085223674774,
+            "Y": 0.40065670013427734
+          },
+          {
+            "Type": "mouthLeft",
+            "X": 0.15651832520961761,
+            "Y": 0.4476602077484131
+          },
+          {
+            "Type": "mouthRight",
+            "X": 0.25441908836364746,
+            "Y": 0.48989954590797424
+          }
+        ],
+        "Pose": {
+          "Roll": 12.86530876159668,
+          "Yaw": 1.9949043989181519,
+          "Pitch": 5.511523723602295
+        },
+        "Quality": {
+          "Brightness": 31.762481689453125,
+          "Sharpness": 99.884521484375
+        },
+        "Confidence": 99.99993896484375
+      }
+    }
+  ],
+  "OrientationCorrection": "ROTATE_0",
+  "FaceModelVersion": "3.0",
+  "ResponseMetadata": {
+    "RequestId": "b3325a03-8f7f-11e8-817f-b9bae792e781",
+    "HTTPStatusCode": 200,
+    "HTTPHeaders": {
+      "content-type": "application/x-amz-json-1.1",
+      "date": "Tue, 24 Jul 2018 20:25:26 GMT",
+      "x-amzn-requestid": "b3325a03-8f7f-11e8-817f-b9bae792e781",
+      "content-length": "1982",
+      "connection": "keep-alive"
+    },
+    "RetryAttempts": 0
+  }
+}
