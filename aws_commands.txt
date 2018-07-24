@@ -1,0 +1,3 @@
+copy files to s2 by command line.
+
+aws s3 cp _analise.jpg s3://(Buket-name)
